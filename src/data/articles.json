@@ -1,0 +1,169 @@
+[
+    {
+      "title": "Home Insurance",
+      "links": [
+        {
+          "url": "https://www.investopedia.com/affected-by-the-wildfires-in-southern-california-you-might-be-safe-from-home-insurance-cancellations-through-2026-8778112",
+          "text": "Affected by the wildfires in Southern California? You might be safe from home insurance cancellations.",
+          "publisher": "Investopedia"
+        },
+        {
+          "url": "https://www.insure.com/case-study/home-insurance/mold-damage-home-repairs/",
+          "text": "From mold discovery to full repairs: how homeowners insurance protected Sam’s home",
+          "publisher": "Insure.com"
+        },
+        {
+          "url": "https://www.insure.com/home-insurance/hoa-master-insurance-policy/",
+          "text": "What is a homeowners association master insurance policy?",
+          "publisher": "Insure.com"
+        },
+        {
+          "url": "https://www.policygenius.com/renters-insurance/renters-insurance-vs-condo-insurance/",
+          "text": "Renters insurance vs condo insurance",
+          "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/renters-insurance-vs-condo-insurance/",
+            "text": "Renters insurance vs condo insurance",
+            "publisher": "Policygenius"
+        }
+      ],
+      "display": 4
+    },
+    {
+      "title": "Car Insurance",
+      "links": [
+        {
+          "url": "https://www.policygenius.com/auto-insurance/car-insurance-declarations-page/",
+          "text": "What's on my car insurance declarations page?",
+          "publisher": "Policygenius"
+        },
+        {
+          "url": "https://www.insure.com/car-insurance/1000-deductible/",
+          "text": "Should I take our a car insurance policy with a $1,000 deductible?",
+          "publisher": "Insure.com"
+        },
+        {
+          "url": "https://www.insure.com/car-insurance/insurance-claim-processing-time/",
+          "text": "How long does car insurance take to process my claim?",
+          "publisher": "Insure.com"
+        },
+        {
+          "url": "https://www.insure.com/car-insurance/how-paying-off-car-loan-affects-insurance/",
+          "text": "Does paying off my car loan affect my insurance premiums?",
+          "publisher": "Insure.com"
+        }
+      ],
+      "display": 4
+    },
+    {
+      "title": "Life Insurance",
+      "links": [
+        {
+          "url": "https://www.investopedia.com/is-your-term-life-insurance-a-waste-of-money-8774621",
+          "text": "Is your term life insurance a waste of money?",
+          "publisher": "Investopedia"
+        },
+        {
+          "url": "https://www.investopedia.com/can-your-dna-change-how-much-you-pay-for-life-insurance-8768536",
+          "text": "Can your genetics affect how much you pay for life insurance?",
+          "publisher": "Investopedia"
+        },
+        {
+          "url": "https://www.policygenius.com/wills/how-life-insurance-works-with-wills-and-trusts/",
+          "text": "How life insurance works with wills and trusts",
+          "publisher": "Policygenius"
+        },
+        {
+          "url": "https://www.investopedia.com/gtl-group-term-life-on-paycheck-5095033",
+          "text": "What is group term life insurance (GTL) on a paycheck?",
+          "publisher": "Investopedia"
+        }
+      ],
+      "display": 4
+    },
+    {
+      "title": "Health Insurance",
+      "links": [
+        {
+          "url": "https://www.investopedia.com/articles/personal-finance/090814/pros-and-cons-health-savings-account-hsa.asp",
+          "text": "Pros and cons of a health savings account (HSA)",
+          "publisher": "Investopedia"
+        },
+        {
+          "url": "https://www.investopedia.com/9-major-medicare-changes-for-2025-and-how-theyll-impact-your-coverage-11684794",
+          "text": "9 major Medicare changes for 2025 and how they'll impact your coverage",
+          "publisher": "Investopedia"
+        }
+      ],
+      "display": 2
+    },
+    {
+        "title": "Mortgages & Housing",
+        "links": [
+          {
+            "url": "https://www.investopedia.com/if-the-fed-cut-rates-why-have-mortgage-rates-been-going-up-8727382",
+            "text": "If the Fed cut rates, why have mortgage rates been going up?",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.investopedia.com/articles/pf/12/home-appraisals.asp",
+            "text": "What is a home appraisal?",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.investopedia.com/articles/investing/092815/where-should-i-keep-my-down-payment-savings.asp",
+            "text": "How to save for a house: a step-by-step guide",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.investopedia.com/why-renting-might-be-the-smarter-choice-as-mortgage-rates-stay-stubbornly-high-8743794",
+            "text": "Rent vs buy: Why renting might be the smarter choice as mortgage rates stay stubbornly high",
+            "publisher": "Investopedia"
+          }
+        ],
+        "display": 4
+      },
+      {
+        "title": "Product Reviews",
+        "links": [
+          {
+            "url": "https://smallbusiness.chron.com/accounting-software/article/best-real-estate-accounting-software-19813279.php",
+            "text": "Best accounting software for real estate agents",
+            "publisher": "Chron.com"
+          },
+          {
+            "url": "https://smallbusiness.chron.com/accounting-bookkeeping/article/best-restaurant-accounting-software-19795302.php",
+            "text": "Best back-office management software for restaurants",
+            "publisher": "Chron.com"
+          },
+          {
+            "url": "https://smallbusiness.chron.com/accounting-bookkeeping/article/best-accounting-software-e-commerce-19795212.php",
+            "text": "Best accounting software and inventory management tools for e-commerce businesses",
+            "publisher": "Chron.com"
+          }
+        ],
+        "display": 4
+      },
+    {
+      "title": "Renters Insurance",
+      "links": [
+        {
+          "url": "https://www.policygenius.com/renters-insurance/does-renters-insurance-cover-jewelry/",
+          "text": "Does renters insurance cover jewelry?",
+          "publisher": "Policygenius"
+        },
+        {
+          "url": "https://www.policygenius.com/renters-insurance/how-do-i-file-a-renters-insurance-claim/",
+          "text": "How do I file a renters insurance claim?",
+          "publisher": "Policygenius"
+        },
+        {
+          "url": "https://www.policygenius.com/renters-insurance/learn/replacement-cost-renters-insurance/",
+          "text": "What is replacement cost renters insurance?",
+          "publisher": "Policygenius"
+        }
+      ],
+      "display": 3
+    }
+  ]

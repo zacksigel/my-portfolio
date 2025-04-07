@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.tsx";
-// import Project from "./pages/Project.tsx";
+import AllArticles from "./pages/AllArticles.tsx";
 
 function App() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      {/* <Route path="/projects/:id" element={<Project />} /> */}
+      <Route path="/AllArticles" element={<AllArticles />} />
     </Routes>
   );
 }
