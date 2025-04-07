@@ -68,7 +68,7 @@ export default function Home() {
             key={project.id}
             className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4"
           >
-            <div className="aspect-square rounded pr-6 flex flex-col">
+            <div className="aspect-square rounded flex mr-4 flex-col">
             <img
                 src={project.image}
                 className="h-3/4 w-full object-cover rounded"
