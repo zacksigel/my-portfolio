@@ -1,0 +1,53 @@
+[
+    {
+      "id": "estate-planning-survey",
+      "title": "National Estate Planning Survey & White Paper",
+      "description": "To support the launch of a new estate planning app, I tasked my team with surveying 2,000 people on their experiences with creating a will or trust. The results were distributed in a white paper and related organic content.",
+      "category": "Content Marketing",
+      "image": "/assets/PG Estate Planning_Rectangle.jpg"
+    },
+    {
+        "id": "judy-zhou",
+        "title": "Launching Judy Zhou, Independent Real Estate Agent",
+        "description": "I developed and executed the content marketing strategy for Judy Zhou, a rising NYC real estate agent, including building her website, writing and sending her monthly newsletter, and consulting on her social media presence.",
+        "category": "Content Marketing",
+        "image": "/assets/Judy_Rectangle.jpg"
+        
+      },
+    {
+      "id": "policygenius-finverts",
+      "title": "Policygenius FinVerts: Reaching a New Market of Millions",
+      "description": "I built seven new personal finance verticals from the ground up to amplify Policygenius's position in organic search and generate backlinks, which increased organic search traffic by as much as 40%.",
+      "category": "SEO Content Strategy",
+      "image": "/assets/PG Finvert_1.jpg"
+    },
+    {
+      "id": "tax-genius",
+      "title": "Ask the Tax Genius",
+      "description": "We capitalized on the organic search success of our tax content by positioning our senior editor as a subject-matter expert who could respond to user-generated questions.",
+      "category": "Content Marketing",
+      "image": "/assets/PG Tax Bootcamp_Rectangle.jpg"
+    },
+    {
+        "id": "tax-cuts-study",
+        "title": "Who Benefited Most from the Tax Cuts and Jobs Act?",
+        "description": "A long-form, data-heavy study of the effects of the 2017 Tax Cuts and Jobs Act on different levels of household income that was shared by both sides of the political aisle.",
+        "category": "Content Marketing",
+        "image": "/assets/PG taxes_Rectangle.jpg"  
+      },
+      {
+        "id": "hysa-launch",
+        "title": "High-Yield Savings Account Launch",
+        "description": "I designed a massive go-to-market content strategy to support the release of M1 Finance's new high-yield savings account product that expanded our presence into new and owned channels.",
+        "category": "Content Marketing",
+        "image": "/assets/HYSA_Rectangle_3.jpg"
+      },
+      {
+        "id": "knowledge-bank",
+        "title": "Roadmapping and Launching the M1 Knowledge Bank",
+        "description": "At M1 Finance, I architected an all-new vertical for publishing SEO explainer content about M1's saving, investing, and lending products, as well as numerous other personal finance topics.",
+        "category": "SEO Content Strategy",
+        "image": "/assets/M1 Knowledge Bank_Rectangle2.jpg"  
+      }
+  ]
+  
