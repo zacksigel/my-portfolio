@@ -14,7 +14,7 @@ export default function Home() {
   
   return (
 <div className="flex flex-col w-5/6 mx-auto">
-  <h1 className="text-5xl font-bold mb-6 mt-6">Zack Sigel | Portfolio</h1>
+  <h1 className="text-5xl font-bold mb-6 mt-6 font-libre-caslon">Zack Sigel</h1>
   <div className="flex flex-row gap-6 mb-8">
     <div className="w-1/2">
       <p className="mb-2">
@@ -31,7 +31,7 @@ export default function Home() {
     </div>
   </div>
   <div className="mb-14">
-    <h2 className="text-4xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
+    <h2 className="text-4xl font-semibold mb-1 font-libre-caslon">Writing & Journalism (Selections)</h2>
     <div className="flex flex-wrap -mx-2">
         {rawArticles.slice(0, 6).map(({ title, links, display }) => (
           <div key={title} className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4">
@@ -65,7 +65,7 @@ export default function Home() {
 
   {Object.entries(grouped).map(([category, projects]) => (
     <div className="mb-10" key={category}>
-      <h2 className="text-4xl font-semibold mb-5">{category}</h2>
+      <h2 className="text-4xl font-semibold mb-5 font-libre-caslon">{category}</h2>
 
       <div className="flex flex-wrap -mx-2">
         {projects.map((project) => (
