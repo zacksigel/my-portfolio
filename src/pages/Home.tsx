@@ -16,20 +16,13 @@ export default function Home() {
     <div>
 <div className="flex flex-col w-5/6 mx-auto mt-6">
   <div className="flex flex-row gap-4 mb-8">
-    <div className="w-1/2">
-      <p className="mb-2">
-        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development.
+      <p className="mb-2 text-lg">
+        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development. I'm passionate about explaining complex material for everyday people seeking even a small bit of financial security in a challenging economic world.
       </p>
-    </div>
-    <div className="w-1/2">
-      <p className="mb-2">
-      I'm passionate about explaining complex material for everyday people seeking even a small bit of financial security in a challenging economic world.
-      </p>
-    </div>
   </div>
   <div className="mb-14">
   <div className="flex flex-row gap-4">
-    <div className="w-1/4">
+    <div className="w-2/4">
       <h2 id="writing" className="text-4xl font-semibold font-libre-caslon mb-6">Writing & Journalism (Selections)</h2>
       
     </div>
