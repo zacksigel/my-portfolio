@@ -4,7 +4,6 @@
       "title": "National Estate Planning Survey & White Paper",
       "description": "To support the launch of a new estate planning app, I tasked my team with surveying 2,000 people on their experiences with creating a will or trust. The results were distributed in a white paper and related organic content.",
       "category": "Content Marketing",
-      "section": "marketing",
       "image": "/assets/PG Estate Planning_Rectangle.jpg",
       "overview": "Policygenius debuted a new app that would generate will and trust documents for users. To support its launch, I pitched the idea of surveying 2,000 Policygenius customers on their experiences with and knowledge of estate planning. The result would comprise a fresh dataset to inform the development of the app as well as a white paper to serve as a marketing asset announcing Policygenius’ foray into estate planning.",
       "role": "I tasked my team with writing survey questions, then worked with senior leadership to carry out the survey. I assigned an editor on my team, Elissa Suh, the role of creating new estate planning content and optimizing it for organic channels. I also worked with the social media, media relations, and design teams to support the production and distribution of the white paper. Our content was repurposed as ad copy for the app release, and my team and I also consulted with the engineering team to create in-app UX content."
@@ -14,15 +13,14 @@
         "title": "Launching Judy Zhou, Independent Real Estate Agent",
         "description": "I developed and executed the content marketing strategy for Judy Zhou, a rising NYC real estate agent, including building her website, writing and sending her monthly newsletter, and consulting on her social media presence.",
         "category": "Content Marketing",
-        "image": "/assets/Judy_Rectangle.jpg"
-        
+        "image": "/assets/Judy_Rectangle.jpg",
+        "overview": "Judy Zhou is an independent real estate agent in New York who wanted to overhaul her marketing strategy in order to generate more leads. In May 2023, she hired me to "
       },
     {
       "id": "policygenius-finverts",
       "title": "Policygenius FinVerts: Reaching a New Market of Millions",
       "description": "I built seven new personal finance verticals from the ground up to amplify Policygenius's position in organic search and generate backlinks, which increased organic search traffic by as much as 40%.",
       "category": "SEO Content Strategy",
-      "section": "seo",
       "image": "/assets/PG Finvert_1.jpg"
     },
     {
@@ -30,7 +28,6 @@
       "title": "Ask the Tax Genius",
       "description": "We capitalized on the organic search success of our tax content by positioning our senior editor as a subject-matter expert who could respond to user-generated questions.",
       "category": "Content Marketing",
-      "section": "marketing",
       "image": "/assets/PG Tax Bootcamp_Rectangle.jpg",
       "overview": "My team had already seen a lot of success in growing our organic traffic through a taxes content vertical. I wanted to capitalize on that success by positioning our taxes editor, Derek Silva, as a major subject-matter expert: the Tax Genius. My team created a new advice column timed to current events (meme stocks, the rise of the COVID-related gig economy), an email bootcamp about filing taxes, and a social media blitz.",
       "role": "I assigned and edited all copy written by Silva and optimized it for Google. I worked with the design team to create all visual assets and developed the email series with our CRM team. Silva and I consulted with our social media team to create videos for Instagram. I executed an intra-company campaign to introduce our 800+ colleagues to the Tax Genius ecosystem and solicit questions for the column."
@@ -40,7 +37,6 @@
         "title": "Who Benefited Most from the Tax Cuts and Jobs Act?",
         "description": "A long-form, data-heavy study of the effects of the 2017 Tax Cuts and Jobs Act on different levels of household income that was shared by both sides of the political aisle.",
         "category": "Content Marketing",
-        "section": "marketing",
         "image": "/assets/PG taxes_Rectangle.jpg",
         "overview": "One of my goals was to expand our backlink profile by publishing shareable blog articles optimized for search. To maximize visibility, the release was timed to Tax Day, and it would take a unique position on a contentious subject to attract the broadest possible audience. We workshopped the content until we were certain of its investigational value; it continues to appeal to both sides of the political spectrum to this day. One measure of this article's success: it was shared by both the Democratic Party and the Republican Party on national platforms at the height of the 2020 election season.",
         "role": "I developed a hypothesis to generate buy-in for my pitch: through an SEO strategy built around targeting “highish”-volume long-tail keywords, we could easily take the top spot on Google, and social media users reposting our link would do the rest. I assigned this piece to my taxes editor, Derek Silva, and developed a press campaign strategy with our media relations team."
@@ -50,7 +46,6 @@
         "title": "High-Yield Savings Account Launch",
         "description": "I designed a massive go-to-market content strategy to support the release of M1 Finance's new high-yield savings account product that expanded our presence into new and owned channels.",
         "category": "Content Marketing",
-        "section": "marketing",        
         "image": "/assets/HYSA_Rectangle_3.jpg",
         "overview": "At M1, my team's first major project was developing the go-to-market strategy behind the launch of our high-yield savings account product. I envisioned a top-down restructuring of our owned channels, including the inauguration of the Knowledge Bank, a repository of search-optimized explainer articles; a long-form video series featuring, Brett Holzhauer, my team's content marketing manager, asking members of the public about their savings habits; and bite-size, shareable videos for Instagram, Twitter, and TikTok.",
         "role": "I managed the logistics for the production of the video series, from developing themes, sourcing camera crew, and editing the footage. For the Knowledge Bank, I built a keyword roadmap and assigned the stories to my team; I also edited each article to ensure accuracy, educational value, and sophistication."
@@ -60,7 +55,6 @@
         "title": "Roadmapping and Launching the M1 Knowledge Bank",
         "description": "At M1 Finance, I architected an all-new vertical for publishing SEO explainer content about M1's saving, investing, and lending products, as well as numerous other personal finance topics.",
         "category": "SEO Content Strategy",
-        "section": "seo",
         "image": "/assets/M1 Knowledge Bank_Rectangle2.jpg"  
       }
   ]

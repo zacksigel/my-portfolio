@@ -28,13 +28,13 @@ export default function Home() {
     </div>
   </div>
   <div className="mb-14">
-  <div className="flex flex-row gap-4 mb-8">
+  <div className="flex flex-row gap-4">
     <div className="w-1/4">
       <h2 id="writing" className="text-4xl font-semibold font-libre-caslon mb-6">Writing & Journalism (Selections)</h2>
       
     </div>
-    <div className="w-3/4">
-      <div className="text-center mt-3 border border-solid border-gray-400 max-w-200 mx-auto p-1">
+    <div className="w-7/8 lg:w-1/4 ">
+      <div className="text-center mt-3 border border-solid border-gray-400 max-w-25 lg:max-w-50 mx-auto p-1">
                       <Link
                 to="/AllArticles"
                 className="text-blue-800 underline text-lg"
