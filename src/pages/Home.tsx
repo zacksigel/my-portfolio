@@ -5,6 +5,7 @@ import rawArticles from "../data/articles.json";
 export default function Home() {
   const grouped = rawProjects.reduce((acc: Record<string, typeof rawProjects>, project) => {
     const category = project.category;
+    const section = project.section;
     if (!acc[category]) {
       acc[category] = [];
     }
@@ -13,25 +14,22 @@ export default function Home() {
   }, {} as Record<string, typeof rawProjects>);
   
   return (
+    <div>
 <div className="flex flex-col w-5/6 mx-auto">
-  <h1 className="text-5xl font-bold mb-6 mt-6 font-libre-caslon">Zack Sigel</h1>
-  <div className="flex flex-row gap-6 mb-8">
+  <div className="flex flex-row gap-4 mb-8">
     <div className="w-1/2">
       <p className="mb-2">
-        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development. I'm passionate about explaining complex material for everyday people seeking even a small bit of financial security in a challenging economic world.
-      </p>
-      <p className="mb-2">
-        My work speaks to the versatility of my skill set. This portfolio comprises both management and independent contributor roles, and it features content spanning a wide range of mediums, from blog posts and evergreen SEO articles to copywriting to static marketing deliverables to long- and short-form video.
+        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development.
       </p>
     </div>
     <div className="w-1/2">
       <p className="mb-2">
-        I hope the following examples demonstrate my subject-matter expertise. The topics covered below include savings, mortgages, tax policy, law, property and casualty insurance, life insurance, estate planning, and accounting, among others.
+      I'm passionate about explaining complex material for everyday people seeking even a small bit of financial security in a challenging economic world.
       </p>
     </div>
   </div>
   <div className="mb-14">
-    <h2 className="text-4xl font-semibold mb-1 font-libre-caslon">Writing & Journalism (Selections)</h2>
+    <h2 id="writing" className="text-4xl font-semibold mb-1 font-libre-caslon">Writing & Journalism (Selections)</h2>
     <div className="flex flex-wrap -mx-2">
         {rawArticles.slice(0, 6).map(({ title, links, display }) => (
           <div key={title} className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4">
@@ -65,7 +63,7 @@ export default function Home() {
 
   {Object.entries(grouped).map(([category, projects]) => (
     <div className="mb-10" key={category}>
-      <h2 className="text-4xl font-semibold mb-5 font-libre-caslon">{category}</h2>
+      <h2 id={category[0]} className="text-4xl font-semibold mb-5 font-libre-caslon">{category}</h2>
 
       <div className="flex flex-wrap -mx-2">
         {projects.map((project) => (
@@ -95,7 +93,7 @@ export default function Home() {
     </div>
   ))}
 </div>
-
+</div>
 
   );
 }
