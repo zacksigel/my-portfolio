@@ -18,7 +18,7 @@ export default function Home() {
   <div className="flex flex-row gap-6 mb-8">
     <div className="w-1/2">
       <p className="mb-2">
-        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development. I'm passionate about explaining difficult concepts for everyday people seeking even a small bit of financial security in a challenging economic world.
+        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development. I'm passionate about explaining complex material for everyday people seeking even a small bit of financial security in a challenging economic world.
       </p>
       <p className="mb-2">
         My work speaks to the versatility of my skill set. This portfolio comprises both management and independent contributor roles, and it features content spanning a wide range of mediums, from blog posts and evergreen SEO articles to copywriting to static marketing deliverables to long- and short-form video.
