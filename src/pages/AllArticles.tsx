@@ -5,7 +5,7 @@ export default function AllArticles() {
   
   return (
 <div className="flex flex-col w-5/6 mx-auto">
-  <h1 className="text-3xl font-bold mb-10">My Portfolio</h1>
+  <h1 className="text-3xl font-bold mb-10">Zack Sigel | Articles</h1>
   <div className="mb-10">
     <h2 className="text-2xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
     <p className="text-gray-600 mb-4">Subheader TKTKTK</p>
