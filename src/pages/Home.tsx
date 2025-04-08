@@ -14,7 +14,25 @@ export default function Home() {
   
   return (
 <div className="flex flex-col w-5/6 mx-auto">
-  <h1 className="text-5xl font-bold mb-10">Zack Sigel | Portfolio</h1>
+  <h1 className="text-5xl font-bold mb-6 mt-6">Zack Sigel | Portfolio</h1>
+  <div className="flex flex-row gap-6 mb-8">
+    {/* Left column with first two paragraphs */}
+    <div className="w-1/2">
+      <p className="mb-2">
+        I'm writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development.
+      </p>
+      <p className="mb-2">
+        The following portfolio speaks to the versatility of my skill set. It comprises both management and independent contributor roles, and it features content spanning a wide range of mediums, from blog posts and copywriting to static marketing deliverables to long- and short-form video.
+      </p>
+    </div>
+
+    {/* Right column with third paragraph */}
+    <div className="w-1/2">
+      <p className="mb-2">
+        The portfolio should also demonstrate my subject-matter expertise. The topics covered include savings, mortgages, tax policy, law, property and casualty insurance, life insurance, estate planning, and accounting, among others.
+      </p>
+    </div>
+  </div>
   <div className="mb-14">
     <h2 className="text-4xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
     <div className="flex flex-wrap -mx-2">
