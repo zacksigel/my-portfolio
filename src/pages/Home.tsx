@@ -16,20 +16,17 @@ export default function Home() {
 <div className="flex flex-col w-5/6 mx-auto">
   <h1 className="text-5xl font-bold mb-6 mt-6">Zack Sigel | Portfolio</h1>
   <div className="flex flex-row gap-6 mb-8">
-    {/* Left column with first two paragraphs */}
     <div className="w-1/2">
       <p className="mb-2">
-        I'm writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development.
+        I'm a writer, editor, and content marketer with over 12 years of experience helping grow startups and small businesses, with a focus on personal finance, insurance/insurtech, and business development. I'm passionate about explaining difficult concepts for everyday people seeking even a small bit of financial security in a challenging economic world.
       </p>
       <p className="mb-2">
-        The following portfolio speaks to the versatility of my skill set. It comprises both management and independent contributor roles, and it features content spanning a wide range of mediums, from blog posts and copywriting to static marketing deliverables to long- and short-form video.
+        My work speaks to the versatility of my skill set. This portfolio comprises both management and independent contributor roles, and it features content spanning a wide range of mediums, from blog posts and evergreen SEO articles to copywriting to static marketing deliverables to long- and short-form video.
       </p>
     </div>
-
-    {/* Right column with third paragraph */}
     <div className="w-1/2">
       <p className="mb-2">
-        The portfolio should also demonstrate my subject-matter expertise. The topics covered include savings, mortgages, tax policy, law, property and casualty insurance, life insurance, estate planning, and accounting, among others.
+        I hope the following examples demonstrate my subject-matter expertise. The topics covered below include savings, mortgages, tax policy, law, property and casualty insurance, life insurance, estate planning, and accounting, among others.
       </p>
     </div>
   </div>
