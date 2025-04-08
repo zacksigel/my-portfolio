@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import projects from "../data/projects.json";
 
 export default function Project() {

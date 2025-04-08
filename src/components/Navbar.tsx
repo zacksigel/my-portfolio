@@ -13,25 +13,25 @@ export default function Navbar() {
     <ul className="flex justify-center space-x-4">
         <li>
           {
-            onArticlesPage ? (<a href="#" className="hover:underline">Writing & Journalism</a>) :
+            onArticlesPage ? (<a href="#" className="underline">Writing & Journalism</a>) :
           onHomePage ? (
-            <a href="#writing" className="hover:underline">Writing & Journalism</a>
+            <a href="#writing" className="underline">Writing & Journalism</a>
           ) : (
-            <Link to="/#writing" className="hover:underline">Writing & Journalism</Link>
+            <Link to="/#writing" className="underline">Writing & Journalism</Link>
           )}
         </li>
         <li>
           {onHomePage ? (
-            <a href="#C" className="hover:underline">Content Marketing</a>
+            <a href="#C" className="underline">Content Marketing</a>
           ) : (
-            <Link to="/#C" className="hover:underline">Content Marketing</Link>
+            <Link to="/#C" className="underline">Content Marketing</Link>
           )}
         </li>
         <li>
           {onHomePage ? (
-            <a href="#S" className="hover:underline">SEO Content Strategy</a>
+            <a href="#S" className="underline">SEO Content Strategy</a>
           ) : (
-            <Link to="/#S" className="hover:underline">SEO Content Strategy</Link>
+            <Link to="/#S" className="underline">SEO Content Strategy</Link>
           )}
         </li>
 

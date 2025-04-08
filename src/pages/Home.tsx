@@ -5,7 +5,6 @@ import rawArticles from "../data/articles.json";
 export default function Home() {
   const grouped = rawProjects.reduce((acc: Record<string, typeof rawProjects>, project) => {
     const category = project.category;
-    const section = project.section;
     if (!acc[category]) {
       acc[category] = [];
     }
@@ -15,7 +14,7 @@ export default function Home() {
   
   return (
     <div>
-<div className="flex flex-col w-5/6 mx-auto">
+<div className="flex flex-col w-5/6 mx-auto mt-6">
   <div className="flex flex-row gap-4 mb-8">
     <div className="w-1/2">
       <p className="mb-2">
@@ -29,12 +28,26 @@ export default function Home() {
     </div>
   </div>
   <div className="mb-14">
-    <h2 id="writing" className="text-4xl font-semibold mb-1 font-libre-caslon">Writing & Journalism (Selections)</h2>
+  <div className="flex flex-row gap-4 mb-8">
+    <div className="w-1/4">
+      <h2 id="writing" className="text-4xl font-semibold font-libre-caslon mb-6">Writing & Journalism (Selections)</h2>
+      
+    </div>
+    <div className="w-3/4">
+      <div className="text-center mt-3 border border-solid border-gray-400 max-w-200 mx-auto p-1">
+                      <Link
+                to="/AllArticles"
+                className="text-blue-800 underline text-lg"
+              >
+                View All
+              </Link></div>      
+    </div>
+  </div>
     <div className="flex flex-wrap -mx-2">
         {rawArticles.slice(0, 6).map(({ title, links, display }) => (
           <div key={title} className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4">
             <div className="mt-[4%]">
-              <h3 className="text-2xl font-medium">{title}</h3>
+              <h3 className="text-2xl font-medium mb-8">{title}</h3>
               <ul className="mt-4 space-y-2 md:text-base">
               {links.slice(0, display).map(({ url, text, publisher }) => (
                   <li key={url}>
@@ -52,18 +65,12 @@ export default function Home() {
       </div>
     </div>
         ))}
-        </div><div className="text-center mt-3 border border-solid border-gray-400 max-w-200 mx-auto p-1">
-                      <Link
-                to="/AllArticles"
-                className="text-blue-800 underline"
-              >
-                View All
-              </Link></div>
+        </div>
     </div>
 
   {Object.entries(grouped).map(([category, projects]) => (
     <div className="mb-10" key={category}>
-      <h2 id={category[0]} className="text-4xl font-semibold mb-5 font-libre-caslon">{category}</h2>
+      <h2 id={category[0]} className="text-4xl font-semibold mb-10 font-libre-caslon">{category}</h2>
 
       <div className="flex flex-wrap -mx-2">
         {projects.map((project) => (
