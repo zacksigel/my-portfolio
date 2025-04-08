@@ -11,20 +11,12 @@ export default function Home() {
     acc[category].push(project);
     return acc;
   }, {} as Record<string, typeof rawProjects>);
-
-  const categoryDescriptions: Record<string, string> = {
-    "Content Marketing": "TKTKTK",
-    "SEO Content Strategy": "TKTKTK",
-    "Journalism & Reporting": "TKTKTK",
-    // Add more categories as needed
-  };
   
   return (
 <div className="flex flex-col w-5/6 mx-auto">
   <h1 className="text-5xl font-bold mb-10">Zack Sigel | Portfolio</h1>
   <div className="mb-10">
     <h2 className="text-4xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
-    <p className="text-gray-600 mb-4">Subheader TKTKTK</p>
     <div className="flex flex-wrap -mx-2">
         {rawArticles.slice(0, 6).map(({ title, links, display }) => (
           <div key={title} className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4">
@@ -58,10 +50,8 @@ export default function Home() {
 
   {Object.entries(grouped).map(([category, projects]) => (
     <div className="mb-10" key={category}>
-      <h2 className="text-4xl font-semibold mb-1">{category}</h2>
-    {categoryDescriptions[category] && (
-      <p className="text-gray-600 mb-4">{categoryDescriptions[category]}</p>
-    )}
+      <h2 className="text-4xl font-semibold mb-5">{category}</h2>
+
       <div className="flex flex-wrap -mx-2">
         {projects.map((project) => (
           <div
