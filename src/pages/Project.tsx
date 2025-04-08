@@ -9,6 +9,7 @@ export default function Project() {
 
   return (
 <div className="min-h-screen flex flex-col items-center justify-center px-4">
+
   <h1 className="text-4xl font-semibold mb-5 text-center">{project.title}</h1>
   
   <div className="max-w-2xl text-center">
@@ -23,11 +24,7 @@ export default function Project() {
     <p className="text-lg text-gray-700">
     <span className="font-semibold">My Role: </span>{project.role}
     </p>
-    <div className="mt-4">
-      <Link to="/" className="text-blue-800 underline">
-        Back
-      </Link>
-    </div>
+
   </div>
 </div>
 
