@@ -15,7 +15,7 @@ export default function Home() {
   return (
 <div className="flex flex-col w-5/6 mx-auto">
   <h1 className="text-5xl font-bold mb-10">Zack Sigel | Portfolio</h1>
-  <div className="mb-10">
+  <div className="mb-14">
     <h2 className="text-4xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
     <div className="flex flex-wrap -mx-2">
         {rawArticles.slice(0, 6).map(({ title, links, display }) => (
@@ -56,7 +56,7 @@ export default function Home() {
         {projects.map((project) => (
           <div
             key={project.id}
-            className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4"
+            className="w-full sm:w-1/2 md:w-1/3 px-2 mb-6"
           >
             <div className="aspect-square rounded flex mr-4 flex-col">
             <img
