@@ -77,12 +77,12 @@ export default function Home() {
                 <h3 className="text-lg font-medium">{project.title}</h3>
                 <p className="text-sm mt-2">{project.description}</p>
               </div>
-              {/* <Link
+              <Link
                 to={`/projects/${project.id}`}
                 className="text-blue-600 mt-4 underline"
               >
                 View Project
-              </Link> */}
+              </Link>
             </div>
           </div>
         ))}
