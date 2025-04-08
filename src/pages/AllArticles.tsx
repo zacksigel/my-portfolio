@@ -10,12 +10,12 @@ export default function AllArticles() {
     <h2 className="text-2xl font-semibold mb-1">Writing & Journalism (Selections)</h2>
     <p className="text-gray-600 mb-4">Subheader TKTKTK</p>
     <div className="flex flex-wrap -mx-2">
-        {rawArticles.map(({ title, links, display }) => (
+        {rawArticles.map(({ title, links }) => (
           <div key={title} className="w-full sm:w-1/2 md:w-1/3 px-2 mb-4">
             <div className="mt-[4%]">
               <h3 className="text-lg font-medium">{title}</h3>
               <ul className="mt-4 space-y-2 md:text-base">
-              {links.slice(0, display).map(({ url, text, publisher }) => (
+              {links.map(({ url, text, publisher }) => (
                   <li key={url}>
                     <a
                       href={url}

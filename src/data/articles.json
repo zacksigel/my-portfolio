@@ -23,9 +23,14 @@
           "publisher": "Policygenius"
         },
         {
-            "url": "https://www.policygenius.com/renters-insurance/renters-insurance-vs-condo-insurance/",
-            "text": "Renters insurance vs condo insurance",
-            "publisher": "Policygenius"
+            "url": "https://www.insure.com/home-insurance/costliest-wildfires.html",
+            "text": "The 10 costliest wildfires",
+            "publisher": "Insure.com"
+        },
+        {
+            "url": "https://www.insure.com/home-insurance/400k-home-insurance-calculator/",
+            "text": "How to calculate your home insurance cost for a $400,000 home",
+            "publisher": "Insure.com"
         }
       ],
       "display": 4
@@ -52,6 +57,21 @@
           "url": "https://www.insure.com/car-insurance/how-paying-off-car-loan-affects-insurance/",
           "text": "Does paying off my car loan affect my insurance premiums?",
           "publisher": "Insure.com"
+        },
+        {
+            "url": "https://www.insure.com/car-insuance/diminished-value-claims/",
+            "text": "Diminished value claims: How to offset loss of value after a car accident",
+            "publisher": "Insure.com"
+        },
+        {
+            "url": "https://www.insure.com/car-insurance/will-insurance-pay-for-rental-car-during-repair/",
+            "text": "Will your insurance pay for a rental car while your car is in the repair shop?",
+            "publisher": "Insure.com"
+        },
+        {
+            "url": "https://www.insure.com/car-insurance/car-insurance-rates-going-up-in-florida/",
+            "text": "Are car insurance rates going up in Florida?",
+            "publisher": "Insure.com"
         }
       ],
       "display": 4
@@ -86,6 +106,11 @@
       "title": "Health Insurance",
       "links": [
         {
+            "url": "https://www.investopedia.com/how-much-does-health-insurance-cost-4774184",
+            "text": "How Much Does Health Insurance Cost?",
+            "publisher": "Investopedia"
+          },
+        {
           "url": "https://www.investopedia.com/articles/personal-finance/090814/pros-and-cons-health-savings-account-hsa.asp",
           "text": "Pros and cons of a health savings account (HSA)",
           "publisher": "Investopedia"
@@ -94,9 +119,39 @@
           "url": "https://www.investopedia.com/9-major-medicare-changes-for-2025-and-how-theyll-impact-your-coverage-11684794",
           "text": "9 major Medicare changes for 2025 and how they'll impact your coverage",
           "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/slash-your-health-2025-insurance-premium-to-10-dollars-by-doing-this-now-8745864",
+            "text": "Slash Your 2025 Health Insurance Premiums to $10 or Less By Doing This Now",
+            "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/countdown-to-coverage-10-days-left-to-enroll-in-health-insurance-that-starts-jan-1-8756224",
+            "text": "Countdown to Coverage: 10 Days Left to Enroll in Health Insurance That Starts Jan. 1",
+            "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/medicare-advantage-vs-original-medicare-which-should-you-trust-your-health-to-11689475",
+            "text": "Medicare Advantage vs. Original Medicare: Which Should You Trust Your Health To?",
+            "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/articles/personal-finance/082914/rules-having-health-savings-account-hsa.asp",
+            "text": "Health Savings Account (HSA) Rules and Limits",
+            "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/articles/personal-finance/010416/critical-illness-insurance-who-needs-it.asp",
+            "text": "Critical Illness Insurance: What Is It? Who Needs It?",
+            "publisher": "Investopedia"
+        },
+        {
+            "url": "https://www.investopedia.com/articles/personal-finance/010816/pitfalls-medicare-advantage-plans.asp",
+            "text": "Disadvantages of Medicare Advantage",
+            "publisher": "Investopedia"
         }
       ],
-      "display": 2
+      "display": 3
     },
     {
         "title": "Mortgages & Housing",
@@ -119,6 +174,11 @@
           {
             "url": "https://www.investopedia.com/why-renting-might-be-the-smarter-choice-as-mortgage-rates-stay-stubbornly-high-8743794",
             "text": "Rent vs buy: Why renting might be the smarter choice as mortgage rates stay stubbornly high",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.investopedia.com/what-mortgage-rates-looked-like-the-last-time-the-fed-funds-rate-was-at-this-level-8749067",
+            "text": "What Mortgage Rates Looked Like the Last Time the Fed Funds Rate Was at This Level",
             "publisher": "Investopedia"
           }
         ],
@@ -162,8 +222,173 @@
           "url": "https://www.policygenius.com/renters-insurance/learn/replacement-cost-renters-insurance/",
           "text": "What is replacement cost renters insurance?",
           "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/renters-insurance-without-a-lease/",
+            "text": "Can you get renters insurance without a lease?",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/the-difference-between-actual-cash-value-vs-replacement-cost-value/",
+            "text": "The difference between actual cash value vs. replacement cost value",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/renters-personal-property-insurance/",
+            "text": "Personal property insurance for renters",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/does-renters-insurance-cover-mold/",
+            "text": "Does renters insurance cover mold?",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/renters-insurance-for-freelancers/",
+            "text": "Renters insurance for freelancers",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/best-renters-insurance-in-cincinnati/",
+            "text": "Best renters insurance in Cincinnati, OH (2024)",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/best-renters-insurance-in-dallas/",
+            "text": "Best renters insurance in Dallas, TX (2024)",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/all-risk-policies-vs-named-perils-policies/",
+            "text": "All-risk policies vs. named perils policies",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/loss-of-use-renters-insurance/",
+            "text": "Loss-of-use renters insurance",
+            "publisher": "Policygenius"
+        },
+        {
+            "url": "https://www.policygenius.com/renters-insurance/renters-insurance-for-storage-units/",
+            "text": "Renters insurance for storage units",
+            "publisher": "Policygenius"
         }
       ],
       "display": 3
-    }
+    },
+    {
+        "title": "Loans",
+        "links": [
+          {
+            "url": "https://www.investopedia.com/should-you-apply-for-debt-relief-before-the-holidays-8753019",
+            "text": "Should You Apply for Debt Relief Before the Holidays?",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.policygenius.com/loans/how-do-student-loans-work/",
+            "text": "Your guide to how student loans work",
+            "publisher": "Policygenius"
+          }
+        ],
+        "display": 3
+      },
+      {
+        "title": "Taxes",
+        "links": [
+          {
+            "url": "https://www.investopedia.com/if-the-new-york-child-tax-credit-is-expanded-families-could-save-or-invest-more-8772809",
+            "text": "If the New York Child Tax Credit Is Expanded, Families Could Save or Invest More",
+            "publisher": "Investopedia"
+          },
+          {
+            "url": "https://www.policygenius.com/taxes/who-can-i-claim-as-a-dependent-and-why-would-i-want-to/",
+            "text": "Who can you claim as a dependent & why do it?",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/taxes/what-happens-if-you-dont-file-taxes/",
+            "text": "What happens if you don't file or pay taxes?",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/taxes/tax-brackets/",
+            "text": "2024 tax brackets: How they work & how much you'll owe",
+            "publisher": "Policygenius"
+          }
+        ],
+        "display": 3
+      },
+      {
+        "title": "Disability Insurance",
+        "links": [
+          {
+            "url": "https://www.policygenius.com/disability-insurance/what-is-short-term-disability-insurance/",
+            "text": "What is short-term disability insurance?",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/disability-insurance/what-is-a-residual-disability-benefit/",
+            "text": "What is a residual disability benefit?",
+            "publisher": "Policygenius"
+          }
+        ],
+        "display": 3
+      },
+      {
+        "title": "Estate Planning",
+        "links": [
+          {
+            "url": "https://www.policygenius.com/wills/contesting-a-will/",
+            "text": "How to contest a will & why",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/estate-planning/living-trust-vs-will/",
+            "text": "Trusts vs. wills: Which do you need?",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/wills/codicil/",
+            "text": "What is a codicil to a will?",
+            "publisher": "Policygenius"
+          }
+        ],
+        "display": 3
+      },
+      {
+        "title": "Saving & Banking",
+        "links": [
+          {
+            "url": "https://www.policygenius.com/banking/what-is-a-check/",
+            "text": "What is a check & how to use them today",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/banking/types-of-savings-accounts/",
+            "text": "Your guide to the types of savings accounts",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/banking/how-to-close-a-bank-account/",
+            "text": "Your guide to closing a bank account",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.policygenius.com/banking/routing-numbers/",
+            "text": "Where do you find the routing number on a check?",
+            "publisher": "Policygenius"
+          },
+          {
+            "url": "https://www.inc.com/mediafeed/zack-sigel/the-ultimate-guide-to-different-types-of-savings-accounts.html",
+            "text": "Which Type of Savings Account Is Best for You? Here’s What You Need to Know",
+            "publisher": "Inc"
+          },
+          {
+            "url": "https://www.inc.com/mediafeed/zack-sigel/the-ultimate-guide-to-online-banks.html",
+            "text": "Should You Put Your Money in an Online Bank? Here’s What You Need to Know",
+            "publisher": "Inc"
+          }
+        ],
+        "display": 3
+      }
   ]
