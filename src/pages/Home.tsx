@@ -37,7 +37,7 @@ export default function Home() {
                       href={url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-blue-600 underline"
+                      className="text-blue-800 underline"
                     >
                       {text} ({publisher})
                     </a>
@@ -50,7 +50,7 @@ export default function Home() {
         </div><div className="text-center mt-3 border border-solid border-gray-400 max-w-200 mx-auto p-1">
                       <Link
                 to="/AllArticles"
-                className="text-blue-600 underline"
+                className="text-blue-800 underline"
               >
                 View All
               </Link></div>
@@ -79,7 +79,7 @@ export default function Home() {
               </div>
               <Link
                 to={`/projects/${project.id}`}
-                className="text-blue-600 mt-4 underline"
+                className="text-blue-800 mt-4 underline"
               >
                 View Project
               </Link>

@@ -21,7 +21,7 @@ export default function AllArticles() {
                       href={url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-blue-600 underline"
+                      className="text-blue-800 underline"
                     >
                       {text} ({publisher})
                     </a>

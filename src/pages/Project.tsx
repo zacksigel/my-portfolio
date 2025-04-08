@@ -25,7 +25,7 @@ export default function Project() {
       <div className="mt-4">
         <Link
                 to="/"
-                className="text-blue-600 underline"
+                className="text-blue-800 underline"
               >
                 Back
         </Link>
